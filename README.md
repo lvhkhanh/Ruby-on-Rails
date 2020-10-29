@@ -4,6 +4,8 @@
 ## Paths
 - [ ] https://www.edx.org/professional-certificate/ucberkeleyx-agile-development-using-ruby-on-rails
 ## Courses
+- [ ] https://www.coursera.org/learn/ruby-on-rails-intro
+- [ ] https://www.coursera.org/learn/rails-with-active-record
 ### https://app.pluralsight.com/search/?q=rails
 ## References
 ### https://cognitiveclass.ai/blog/react-on-rails-tutorial-integrating-react-and-ruby-on-rails
